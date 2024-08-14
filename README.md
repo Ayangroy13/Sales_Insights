@@ -1,7 +1,7 @@
 
 # Sales Insights Power BI Project
 
-This project is centred on a computer hardware company that is confronting issues in a rapidly changing market. The sales director chooses to invest in a data analysis project and wants to create a Power BI dashboard that will provide him with real-time sales insights.
+This project is centred on the computer hardware company that is confronting issues in a rapidly changing market. The sales director chooses to invest in a data analysis project and wants to create a Power BI dashboard that will provide him with real-time sales insights.
 
 # Sales-Dashboard
 
